@@ -186,9 +186,6 @@ Returns structured JSON:
 ## [LLM JSON Suggestion]
 ![LLM JSON Suggestion](SE-Project/Working-Images/Suggestions.png)
 
-*(Note: Replace the image paths above with your actual repository images)*
-
----
 
 ## 🧠 Explainable AI Approach
 
@@ -200,9 +197,10 @@ Returns structured JSON:
 
 ## 👥 Team Members
 
-- **G. Mohnish Krishna** – AV.SC.U4CSE23013
-- **Vikram Shanbhag** – AV.SC.U4CSE23048
-- **A. Surendra Naidu** – AV.SC.U4CSE23004
+- **G Mohnish Krishna Saikumar** — [GitHub](https://github.com/mohnishkrishna-saikumar-mk9)
+- **Vikram Shanbhag** – [GitHub]
+- **A Surendra Naidu** - [GitHub](https://github.com/arigisurendranaidu2005-code)
+
 
 
 
