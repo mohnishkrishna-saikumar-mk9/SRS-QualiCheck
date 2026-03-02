@@ -70,7 +70,7 @@ Structured UI Dashboard & Quality Score
 ### 1. Clone repository
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/mohnishkrishna-saikumar-mk9/SRS-QualiCheck/tree/main>
 cd srs-qualicheck
 ```
 
@@ -203,6 +203,7 @@ Returns structured JSON:
 - **G. Mohnish Krishna** – AV.SC.U4CSE23013
 - **Vikram Shanbhag** – AV.SC.U4CSE23048
 - **A. Surendra Naidu** – AV.SC.U4CSE23004
+
 
 
 
