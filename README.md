@@ -174,7 +174,7 @@ Returns structured JSON:
 
 ## 📸 Interface Preview
 
-![Home Screen](images/herosection.png)
+![Home Screen](SE-Project/Working-Images/Front-Page.png)
 
 ![upload section](images/upload.png)
 
@@ -199,3 +199,4 @@ Returns structured JSON:
 - **G. Mohnish Krishna** – AV.SC.U4CSE23013
 - **Vikram Shanbhag** – AV.SC.U4CSE23048
 - **A. Surendra Naidu** – AV.SC.U4CSE23004
+
