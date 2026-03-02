@@ -172,14 +172,18 @@ Returns structured JSON:
 
 ---
 
-## 📸 Interface Preview
+# 📸 Interface Preview
 
+## [Home Screen]
 ![Home Screen](SE-Project/Working-Images/Front-page.png)
 
+## [upload section]
 ![upload section](SE-Project/Working-Images/SRS-File.png)
 
+## [Result page]
 ![Result page](SE-Project/Working-Images/Scoring.png)
 
+## [LLM JSON Suggestion]
 ![LLM JSON Suggestion](SE-Project/Working-Images/Suggestions.png)
 
 *(Note: Replace the image paths above with your actual repository images)*
@@ -199,6 +203,7 @@ Returns structured JSON:
 - **G. Mohnish Krishna** – AV.SC.U4CSE23013
 - **Vikram Shanbhag** – AV.SC.U4CSE23048
 - **A. Surendra Naidu** – AV.SC.U4CSE23004
+
 
 
 
