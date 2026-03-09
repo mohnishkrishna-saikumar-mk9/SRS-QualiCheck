@@ -4,12 +4,6 @@ Machine Learning & LLM-Powered web application that analyzes Software Requiremen
 
 ---
 
-## 🚀 Live Demo
-
-*(Add your live demo link or YouTube video link here)*
-
----
-
 ## 🏗 Architecture Overview
 
 SRS QualiCheck follows a modular machine learning and AI decision pipeline:
@@ -200,6 +194,7 @@ Returns structured JSON:
 - **G Mohnish Krishna Saikumar** — [GitHub](https://github.com/mohnishkrishna-saikumar-mk9)
 - **Vikram Shanbhag** – [GitHub](https://github.com/VikramS28)
 - **A Surendra Naidu** - [GitHub](https://github.com/arigisurendranaidu2005-code)
+
 
 
 
